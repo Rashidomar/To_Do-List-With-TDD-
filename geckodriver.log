@@ -1,0 +1,927 @@
+1555162152440	geckodriver	INFO	geckodriver 0.18.0
+1555162152450	geckodriver	INFO	Listening on 127.0.0.1:48165
+1555162152650	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555162158272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555162158273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555162158273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555162158820	Marionette	TRACE	Received observer notification profile-after-change
+1555162159618	Marionette	TRACE	Received observer notification command-line-startup
+1555162159618	Marionette	TRACE	Received observer notification nsPref:changed
+1555162159619	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555162161227	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555162165106	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555162165107	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555162165654	Marionette	TRACE	All scripts recorded.
+1555162165655	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555162165656	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555162165656	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555162165657	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555162165658	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555162165661	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555162165661	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555162165662	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555162165663	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555162165863	Marionette	INFO	Listening on port 35097
+1555162165863	Marionette	DEBUG	Remote service is active
+1555162165902	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52954
+1555162165922	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555162165923	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555162166194	Marionette	DEBUG	Closed connection 0
+1555162303671	geckodriver	INFO	geckodriver 0.18.0
+1555162303678	geckodriver	INFO	Listening on 127.0.0.1:39811
+1555162304893	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555162305691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555162305692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555162305692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555162305999	Marionette	TRACE	Received observer notification profile-after-change
+1555162306368	Marionette	TRACE	Received observer notification command-line-startup
+1555162306368	Marionette	TRACE	Received observer notification nsPref:changed
+1555162306368	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555162307209	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555162309056	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555162309056	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555162309325	Marionette	TRACE	All scripts recorded.
+1555162309326	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555162309327	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555162309328	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555162309329	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555162309330	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555162309331	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555162309331	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555162309332	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555162309332	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555162309435	Marionette	INFO	Listening on port 34201
+1555162309435	Marionette	DEBUG	Remote service is active
+1555162309524	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:59444
+1555162309535	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555162309537	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555162309662	Marionette	DEBUG	Closed connection 0
+1555162316106	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1555162316106	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1555162316107	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1555162316107	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1555162316107	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1555162316107	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1555162316108	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1555162316108	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1555162316108	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1555162316108	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1555162316109	Marionette	INFO	Stopped listening on port 34201
+1555162316109	Marionette	DEBUG	Remote service is inactive
+[Parent 4995, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555162320594	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1555162320594	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1555162320595	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1555162320595	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1555162320595	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1555162320595	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1555162320596	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1555162320597	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1555162320597	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1555162320598	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1555162320600	Marionette	INFO	Stopped listening on port 35097
+1555162320601	Marionette	DEBUG	Remote service is inactive
+1555162362096	geckodriver	INFO	geckodriver 0.18.0
+1555162362105	geckodriver	INFO	Listening on 127.0.0.1:53315
+1555162363315	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555162364165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555162364166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555162364166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555162364469	Marionette	TRACE	Received observer notification profile-after-change
+1555162364832	Marionette	TRACE	Received observer notification command-line-startup
+1555162364833	Marionette	TRACE	Received observer notification nsPref:changed
+1555162364833	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555162365702	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555162367652	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555162367653	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555162367876	Marionette	TRACE	All scripts recorded.
+1555162367877	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555162367877	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555162367877	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555162367878	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555162367879	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555162367879	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555162367880	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555162367880	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555162367880	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555162367960	Marionette	INFO	Listening on port 34405
+1555162367961	Marionette	DEBUG	Remote service is active
+1555162368057	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:45196
+1555162368082	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555162368082	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555162368215	Marionette	DEBUG	Closed connection 0
+1555162524799	geckodriver	INFO	geckodriver 0.18.0
+1555162524808	geckodriver	INFO	Listening on 127.0.0.1:43175
+1555162526013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555162526865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555162526866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555162526866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555162527173	Marionette	TRACE	Received observer notification profile-after-change
+1555162527508	Marionette	TRACE	Received observer notification command-line-startup
+1555162527508	Marionette	TRACE	Received observer notification nsPref:changed
+1555162527509	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555162528743	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555162530525	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555162530525	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555162530903	Marionette	TRACE	All scripts recorded.
+1555162530904	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555162530905	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555162530905	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555162530907	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555162530907	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555162530909	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555162530909	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555162530909	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555162530910	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555162531010	Marionette	INFO	Listening on port 42485
+1555162531011	Marionette	DEBUG	Remote service is active
+1555162531046	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:35592
+1555162531064	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555162531065	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555162531189	Marionette	DEBUG	Closed connection 0
+[Parent 5796, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6191, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555162543964	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1555162543964	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1555162543965	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1555162543965	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1555162543965	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1555162543965	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1555162543966	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1555162543966	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1555162543967	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1555162543967	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1555162543969	Marionette	INFO	Stopped listening on port 34405
+1555162543969	Marionette	DEBUG	Remote service is inactive
+1555162544188	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1555162544189	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1555162544189	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1555162544189	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1555162544189	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1555162544189	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1555162544190	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1555162544191	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1555162544191	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1555162544192	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1555162544194	Marionette	INFO	Stopped listening on port 42485
+1555162544195	Marionette	DEBUG	Remote service is inactive
+1555163373836	geckodriver	INFO	geckodriver 0.18.0
+1555163373844	geckodriver	INFO	Listening on 127.0.0.1:53143
+1555163375059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555163375837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555163375838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555163375838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555163376141	Marionette	TRACE	Received observer notification profile-after-change
+1555163376519	Marionette	TRACE	Received observer notification command-line-startup
+1555163376520	Marionette	TRACE	Received observer notification nsPref:changed
+1555163376520	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555163377396	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555163379047	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555163379048	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555163379461	Marionette	TRACE	All scripts recorded.
+1555163379462	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555163379463	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555163379464	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555163379465	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555163379466	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555163379467	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555163379467	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555163379467	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555163379468	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555163379564	Marionette	INFO	Listening on port 44103
+1555163379565	Marionette	DEBUG	Remote service is active
+1555163379589	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:59230
+1555163379600	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555163379601	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555163379747	Marionette	DEBUG	Closed connection 0
+1555163426598	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1555163426599	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1555163426599	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1555163426599	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1555163426600	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1555163426600	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1555163426601	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1555163426601	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1555163426601	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1555163426602	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1555163426603	Marionette	INFO	Stopped listening on port 44103
+1555163426603	Marionette	DEBUG	Remote service is inactive
+1555163430070	geckodriver	INFO	geckodriver 0.18.0
+1555163430079	geckodriver	INFO	Listening on 127.0.0.1:46403
+1555163431259	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555163432072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555163432073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555163432073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555163432373	Marionette	TRACE	Received observer notification profile-after-change
+1555163432757	Marionette	TRACE	Received observer notification command-line-startup
+1555163432757	Marionette	TRACE	Received observer notification nsPref:changed
+1555163432757	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555163433588	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555163435321	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555163435322	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555163435729	Marionette	TRACE	All scripts recorded.
+1555163435731	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555163435731	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555163435732	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555163435733	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555163435733	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555163435734	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555163435734	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555163435735	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555163435735	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555163435839	Marionette	INFO	Listening on port 33367
+1555163435839	Marionette	DEBUG	Remote service is active
+1555163435883	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:54814
+1555163435890	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555163435891	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555163436043	Marionette	DEBUG	Closed connection 0
+1555163565207	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1555163609059	geckodriver	INFO	geckodriver 0.18.0
+1555163609066	geckodriver	INFO	Listening on 127.0.0.1:50239
+1555163610256	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555163611036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555163611037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555163611037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555163611335	Marionette	TRACE	Received observer notification profile-after-change
+1555163611678	Marionette	TRACE	Received observer notification command-line-startup
+1555163611678	Marionette	TRACE	Received observer notification nsPref:changed
+1555163611678	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555163612570	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555163614404	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555163614404	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555163614725	Marionette	TRACE	All scripts recorded.
+1555163614725	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555163614726	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555163614726	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555163614727	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555163614728	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555163614729	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555163614729	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555163614730	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555163614730	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555163614814	Marionette	INFO	Listening on port 40587
+1555163614815	Marionette	DEBUG	Remote service is active
+1555163614883	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49908
+1555163614887	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555163614889	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555163615037	Marionette	DEBUG	Closed connection 0
+[Parent 7976, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555163618949	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1555163618949	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1555163618950	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1555163618950	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1555163618950	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1555163618950	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1555163618951	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1555163618951	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1555163618951	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1555163618951	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1555163618952	Marionette	INFO	Stopped listening on port 40587
+1555163618952	Marionette	DEBUG	Remote service is inactive
+[Parent 7528, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 7528, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 7528, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35002A,name=PContent::Msg_UpdateAppLocales) Channel error: cannot send/recv
+
+[Parent 7528, Gecko_IOThread] WARNING: pipe error (144): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 7528, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350115,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+1555208699296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OG77yPJPzJgv"
+1555208704922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555208704923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555208704924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555208711912	Marionette	INFO	Listening on port 45623
+1555208711960	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2468, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555208787476	Marionette	INFO	Stopped listening on port 45623
+1555208812646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OTBIQoffl5dI"
+1555208813410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555208813411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555208813411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555208817269	Marionette	INFO	Listening on port 39195
+1555208817372	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2867, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555208874773	Marionette	INFO	Stopped listening on port 39195
+1555209181380	geckodriver	INFO	geckodriver 0.18.0
+1555209181391	geckodriver	INFO	Listening on 127.0.0.1:46845
+1555209182594	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555209183409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555209183410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555209183410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555209183717	Marionette	TRACE	Received observer notification profile-after-change
+1555209184087	Marionette	TRACE	Received observer notification command-line-startup
+1555209184087	Marionette	TRACE	Received observer notification nsPref:changed
+1555209184088	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555209185000	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555209186727	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555209186728	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555209187188	Marionette	TRACE	All scripts recorded.
+1555209187189	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555209187190	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555209187191	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555209187192	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555209187193	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555209187194	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555209187194	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555209187195	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555209187196	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555209187293	Marionette	INFO	Listening on port 33047
+1555209187294	Marionette	DEBUG	Remote service is active
+1555209187317	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49408
+1555209187327	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555209187328	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555209187518	Marionette	DEBUG	Closed connection 0
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1555209391164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vHd3RvGQmk0v"
+1555209392017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555209392018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555209392018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555209395946	Marionette	INFO	Listening on port 34571
+1555209396023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555209437372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fx9UYIb4OLDr"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/kari which is owned by kari.)
+1555209449321	Marionette	INFO	Stopped listening on port 34571
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 404: Error: OS.File has been shut down. Rejecting post to stat
+1555209456074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bLeLqlg8XIt9"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/kari which is owned by kari.)
+1555209475655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0jEJt4JQqp3D"
+1555209476466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555209476466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555209476467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555209480195	Marionette	INFO	Listening on port 38349
+1555209480298	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4305, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 4305, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555209487878	Marionette	INFO	Stopped listening on port 38349
+1555209595324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rvwv9mC8PfB8"
+1555209596103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555209596103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555209596104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555209599947	Marionette	INFO	Listening on port 36993
+1555209600042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555209649687	Marionette	INFO	Stopped listening on port 36993
+1555209702616	geckodriver	INFO	geckodriver 0.18.0
+1555209702625	geckodriver	INFO	Listening on 127.0.0.1:44665
+1555209703871	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1555209704738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555209704738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555209704739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555209705049	Marionette	TRACE	Received observer notification profile-after-change
+1555209705362	Marionette	TRACE	Received observer notification command-line-startup
+1555209705362	Marionette	TRACE	Received observer notification nsPref:changed
+1555209705362	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1555209706176	Marionette	TRACE	Received observer notification toplevel-window-ready
+1555209708006	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1555209708006	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1555209708305	Marionette	TRACE	All scripts recorded.
+1555209708305	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1555209708306	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1555209708306	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1555209708307	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1555209708308	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1555209708309	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1555209708309	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1555209708309	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1555209708310	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1555209708393	Marionette	INFO	Listening on port 43355
+1555209708394	Marionette	DEBUG	Remote service is active
+1555209708502	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49228
+1555209708512	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1555209708513	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1555209708725	Marionette	DEBUG	Closed connection 0
+[Parent 4890, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555209731303	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1555209731304	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1555209731304	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1555209731304	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1555209731305	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1555209731305	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1555209731306	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1555209731306	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1555209731307	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1555209731308	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1555209731309	Marionette	INFO	Stopped listening on port 43355
+1555209731310	Marionette	DEBUG	Remote service is inactive
+1555209756752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vHaIBKfFnOCm"
+1555209757552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555209757553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555209757553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555209761687	Marionette	INFO	Listening on port 40917
+1555209761778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555209955502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UlSsG7xDQ4R4"
+1555209956307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555209956308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555209956308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555209960217	Marionette	INFO	Listening on port 44255
+1555209960255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555210012399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i44lZz8k8qRH"
+1555210013316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555210013317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555210013318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555210017479	Marionette	INFO	Listening on port 44091
+1555210017547	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5786, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5786, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555210035275	Marionette	INFO	Stopped listening on port 44091
+[Parent 5536, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555210036419	Marionette	INFO	Stopped listening on port 44255
+[Parent 5149, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555210037702	Marionette	INFO	Stopped listening on port 40917
+1555210058824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tukBlb3Af8TS"
+1555210059636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555210059637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555210059637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555210063568	Marionette	INFO	Listening on port 45753
+1555210063653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555264662474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OY8WBRV2yl31"
+1555264667605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555264667606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555264667606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555264673794	Marionette	INFO	Listening on port 32815
+1555264673843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555264782505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QjH9DeIW4IUG"
+1555264782951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555264782952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555264782952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555264786182	Marionette	INFO	Listening on port 43611
+1555264786233	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8555, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8555, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8945, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8945, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555264790612	Marionette	INFO	Stopped listening on port 32815
+1555264790763	Marionette	INFO	Stopped listening on port 43611
+1555264793070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nVgMJIGsJaBh"
+1555264793500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555264793500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555264793501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555264796532	Marionette	INFO	Listening on port 45229
+1555264796591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555264945664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N5PGYsHg6vGN"
+1555264946102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555264946102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555264946102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555264949220	Marionette	INFO	Listening on port 34641
+1555264949282	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9253, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9583, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9253, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555265338118	Marionette	INFO	Stopped listening on port 45229
+1555265338120	Marionette	INFO	Stopped listening on port 34641
+1555265348314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O6TvDA6gzSe0"
+1555265348764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555265348764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555265348764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555265351749	Marionette	INFO	Listening on port 36181
+1555265351827	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10024, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555265599983	Marionette	INFO	Stopped listening on port 36181
