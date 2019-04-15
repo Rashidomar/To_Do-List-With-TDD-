@@ -1,11 +1,13 @@
-from django.urls import reverse
-from lists.views import home_page
 from django.test import TestCase
+from lists.views import homepage
+from django.urls import resolve
+#from django.http import HttpRequest
 
 # Create your tests here.
 
 class HomePageTest(TestCase):
-    
-    def test_root_url_resolves_to_home_page_view(self):
+    def test_homepage(self):
         found = resolve('/')
-        self.assertEqual(found.func, homepge)
+        self.assertEqual(found.func, homepage)
+    
+   
