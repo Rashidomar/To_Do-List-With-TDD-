@@ -7,6 +7,7 @@ class HomePageTest(unittest.TestCase):
         self.browser = webdriver.Firefox()
 
     def tearDown(self):
+        time.sleep(10)
         self.browser.quit()
 
     def test_homepage(self):
